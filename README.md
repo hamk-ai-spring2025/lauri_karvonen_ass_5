@@ -74,7 +74,8 @@ assignment-5/
 
 ## Example Workflow
 Input Image: pikatchu_0.png (replace with your own image and file name.)
-Run in console: ```bash
+Run in console: 
+```bash
 python ass_5.py
 ```
 - The script will process the input image by:
